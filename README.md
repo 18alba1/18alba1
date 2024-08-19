@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=18alba1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="18alba1" /></p>
 
-<img align="right" alt="Coding" height="480" width="380" src="https://media.giphy.com/media/korsA5LfNLfNG7X7vF/giphy.gif">
+<img align="right" alt="Coding" height="480" width="320" src="https://media.giphy.com/media/korsA5LfNLfNG7X7vF/giphy.gif">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18alba1&show_icons=true&locale=en&theme=tokyonight" alt="18alba1" /></p>
 
